@@ -4,13 +4,13 @@ import 'firebase/firestore'
 
 // firebase init
 const firebaseConfig = {
-  apiKey: '',
-  authDomain: '',
-  databaseURL: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: ''
+  apiKey: "AIzaSyDNxg_AS9VJw-6uUWodZPGkaO-2YvjW9O4",
+  authDomain: "fake-h-link.firebaseapp.com",
+  databaseURL: "https://fake-h-link.firebaseio.com",
+  projectId: "fake-h-link",
+  storageBucket: "fake-h-link.appspot.com",
+  messagingSenderId: "193607540595",
+  appId: "1:193607540595:web:d344cb2e68aa1371042f06"
 }
 firebase.initializeApp(firebaseConfig)
 
